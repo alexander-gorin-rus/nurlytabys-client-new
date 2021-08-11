@@ -6,6 +6,9 @@ const Test = props => {
         <div>
             Test Component
             <h2>kjkjkjljlj</h2>
+            <div>
+                sdfsdfsfsdfsdfsdfsfsdfsdfs
+            </div>
         </div>
     )
 }
